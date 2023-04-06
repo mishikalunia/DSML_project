@@ -1,7 +1,9 @@
 # Music-Genre-Classification
 
-Using inter-feature, feature-targeted correlation and feature selection methods like Recursive Feature Extraction to analyse the spectral features of different musical genres and categorise new music into its respective genre.
-
+• Using 6 Machine Learning classifiers - Naive Bayes, Logistic Regression, K-Nearest Neighbours, Random kForest, Stochastic Gradient Descent and Cross Gradient Booster (XGBoost) to solve the multi-class classification problem.
+• Ranking the performance of different classifiers on normalised and non-normalised data based on their precision, recall and F-measure. 
+• Using inter-feature, feature-targeted correlation and feature selection methods like Recursive Feature Extraction to minimise the spectral features of different musical genres.
+• Tuning each model and fitting it to the train data using k-fold cross-validation and RandomizedSearchCV.
 _____________________________________________________________________
 
 **Problem Statement**: The objective is to identify the genre of the song given a set of spectral features
