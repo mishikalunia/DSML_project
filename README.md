@@ -1,5 +1,5 @@
 # Music Genre Recognition using Machine Learning Techniques | Dr Tanmay Basu
-
+Mar 2022 - May 2022
 • Using 6 Machine Learning classifiers - Naive Bayes, Logistic Regression, K-Nearest Neighbours, Random kForest, Stochastic Gradient Descent and Cross Gradient Booster (XGBoost) to solve the multi-class classification problem.
 
 • Ranking the performance of different classifiers on normalised and non-normalised data based on their precision, recall and F-measure. 
